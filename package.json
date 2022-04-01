@@ -1,0 +1,15 @@
+{
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "bip32": "^3.0.1",
+    "bip39": "^3.0.4",
+    "bitcoinjs-lib": "^6.0.1",
+    "ecpair": "^2.0.1",
+    "fs": "^0.0.1-security",
+    "Math": "^0.0.1-security",
+    "mathjs": "^10.4.2",
+    "regtest-client": "^0.2.0",
+    "tiny-secp256k1": "^2.2.1"
+  }
+}
